@@ -1,7 +1,5 @@
 # reading-note-102n2
 
-<h1>Reading Note Test</h1>
-
 This is where I'm going to put my reading assignments.
 
 Reminders to stay in a growth mindset: 
