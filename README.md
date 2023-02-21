@@ -8,4 +8,4 @@ Reminders to stay in a growth mindset:
 
 My github portfolio lives here: [https://github.com/KhoanLab](https://github.com/KhoanLab){: style="color: red"}
 
-example markdown: [Code Here](./example/)
+example markdown: [Code Here](example.md)
